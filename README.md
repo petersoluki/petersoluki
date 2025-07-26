@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi there, I'm a Mobile Engineer
 
-<!--
-**petersoluki/petersoluki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning to build mobile apps with Flutter and Dart, creating sleek, scalable solutions for real-world users.
+🔭 Always open to exploring new tools and technologies that solve real problems efficiently.
+👯 I’m keen on collaborating on impactful Flutter projects and contributing to open source.
+🌍 Solving big, global problems is exciting — but I believe the everyday challenges around us matter too. Sometimes, the small fixes make the biggest difference.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+twitter: @Soluki__
+email: petersoluki@gmail.com
+linkedin:https://www.linkedin.com/in/peter-eze-036a0b25a
+
