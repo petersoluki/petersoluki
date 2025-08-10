@@ -8,5 +8,4 @@ I'm currently learning to build mobile apps with Flutter and Dart, creating slee
 
 📫 How to reach me:
 
-- Email: petersoluki@gmail.com
-- Linkedin:https://www.linkedin.com/in/peter-eze-036a0b25a
+- Email: petersoluki@gmail.com || Linkedin: https://www.linkedin.com/in/peter-eze-036a0b25a
